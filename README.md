@@ -105,7 +105,7 @@ Unauthorized scanning of domains can be illegal and unethical.
 ## 👤 Author
 
 Made with curiosity and caffeine ☕  
-**Gumbo**  
+**ritzsec**  
 [GitHub Profile](https://github.com/ritzsec)
 
 
